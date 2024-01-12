@@ -3,3 +3,5 @@
 이직한 회사 출근 후기 ( v )
 
 댐핑(Damping) 이란? ( v )
+
+오실레이션(Oscillation)이란? ( v )
