@@ -5,3 +5,6 @@
 댐핑(Damping) 이란? ( v )
 
 오실레이션(Oscillation)이란? ( v )
+
+Application Processor (AP) 보드란? ( v )
+
