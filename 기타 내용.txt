@@ -8,3 +8,5 @@
 
 Application Processor (AP) 보드란? ( v )
 
+ODM, OEM, PB 이란 ( v )
+
